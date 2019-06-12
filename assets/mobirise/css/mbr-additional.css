@@ -1406,6 +1406,27 @@ body {
 .cid-rt4beuvVY2 .mbr-text {
   color: #767676;
 }
+.cid-rtbm1fP6SY {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cid-rtbm1fP6SY .image-block {
+  margin: auto;
+}
+.cid-rtbm1fP6SY figcaption {
+  position: relative;
+}
+.cid-rtbm1fP6SY figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rtbm1fP6SY .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rtbhem9qWh {
   padding-top: 15px;
   padding-bottom: 15px;
