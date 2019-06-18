@@ -1585,12 +1585,12 @@ body {
 }
 .cid-rtbR2aebio .navbar {
   padding: .5rem 0;
-  background: #635a51;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-rtbR2aebio .navbar-dropdown.bg-color.transparent.opened {
-  background: #635a51;
+  background: #232323;
 }
 .cid-rtbR2aebio a {
   font-style: normal;
@@ -1681,7 +1681,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rtbR2aebio .dropdown .dropdown-menu {
-  background: #635a51;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
