@@ -1980,3 +1980,16 @@ body {
 .cid-rtbR2aebio .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rvg3sfKcbl {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rvg3sfKcbl .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rvg3sfKcbl .video-block {
+    width: 100% !important;
+  }
+}
