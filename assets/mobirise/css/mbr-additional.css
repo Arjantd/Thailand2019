@@ -1506,31 +1506,11 @@ body {
 }
 .cid-rt5ccCvYFl {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rt5ccCvYFl .mbr-text,
 .cid-rt5ccCvYFl blockquote {
-  color: #767676;
-}
-.cid-rt5pC4T3ff {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rt5pC4T3ff .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rt5pC4T3ff .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rt5pMTnNfq {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rt5pMTnNfq .mbr-text,
-.cid-rt5pMTnNfq blockquote {
   color: #767676;
 }
 .cid-rt5rNqZQFC {
@@ -1946,27 +1926,6 @@ body {
 .cid-rtbR2aebio .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rvx7N7dQFq {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 30px;
-}
-.cid-rvx7N7dQFq .image-block {
-  margin: auto;
-}
-.cid-rvx7N7dQFq figcaption {
-  position: relative;
-}
-.cid-rvx7N7dQFq figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rvx7N7dQFq .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rvxd1Z341g {
   background: #ffffff;
   padding-top: 0px;
@@ -1977,68 +1936,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rvxd1Z341g .video-block {
-    width: 100% !important;
-  }
-}
-.cid-rvxeI98AR6 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rvxeI98AR6 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rvxeI98AR6 .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rvxeJRLLVv {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 30px;
-}
-.cid-rvxeJRLLVv .image-block {
-  margin: auto;
-}
-.cid-rvxeJRLLVv figcaption {
-  position: relative;
-}
-.cid-rvxeJRLLVv figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rvxeJRLLVv .image-block {
-    width: 100% !important;
-  }
-}
-.cid-rvxgLhOBOG {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rvxgLhOBOG .mbr-text,
-.cid-rvxgLhOBOG blockquote {
-  color: #767676;
-}
-.cid-rvxfg2DfuW {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 30px;
-}
-.cid-rvxfg2DfuW .image-block {
-  margin: auto;
-}
-.cid-rvxfg2DfuW figcaption {
-  position: relative;
-}
-.cid-rvxfg2DfuW figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rvxfg2DfuW .image-block {
     width: 100% !important;
   }
 }
