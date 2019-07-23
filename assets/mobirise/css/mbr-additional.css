@@ -2694,26 +2694,3 @@ body {
 .cid-rx3SuNzmG9 blockquote {
   color: #767676;
 }
-.cid-rx3UArtAKk {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-rx3UArtAKk .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rx3UArtAKk .section-text {
-  padding: 2rem 0;
-}
-.cid-rx3UArtAKk .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rx3UArtAKk .inner-container {
-    width: 100% !important;
-  }
-}
