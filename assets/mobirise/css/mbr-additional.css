@@ -3628,3 +3628,43 @@ body {
 .cid-rya71tnjBo blockquote {
   color: #767676;
 }
+.cid-rya8zBbr90 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #55b4d4;
+}
+.cid-rya8zBbr90 .card-img {
+  background-color: #fff;
+}
+.cid-rya8zBbr90 .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rya8zBbr90 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rya8zBbr90 p {
+  text-align: left;
+}
+.cid-rya8zBbr90 .mbr-text {
+  color: #767676;
+}
+.cid-rya8zBbr90 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rya8zBbr90 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rya8zBbr90 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
