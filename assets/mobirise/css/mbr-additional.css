@@ -3159,26 +3159,27 @@ body {
 .cid-rxw3Hf52V3 blockquote {
   color: #767676;
 }
-.cid-ry9Po8YY5o {
+.cid-ryabh93Ew8 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #55b4d4;
 }
-.cid-ry9Po8YY5o .line {
+.cid-ryabh93Ew8 .line {
   background-color: #ffffff;
   color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
-.cid-ry9Po8YY5o .section-text {
+.cid-ryabh93Ew8 .section-text {
   padding: 2rem 0;
+  color: #ffffff;
 }
-.cid-ry9Po8YY5o .inner-container {
+.cid-ryabh93Ew8 .inner-container {
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-ry9Po8YY5o .inner-container {
+  .cid-ryabh93Ew8 .inner-container {
     width: 100% !important;
   }
 }
