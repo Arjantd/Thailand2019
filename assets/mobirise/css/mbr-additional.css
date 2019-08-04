@@ -3159,3 +3159,26 @@ body {
 .cid-rxw3Hf52V3 blockquote {
   color: #767676;
 }
+.cid-ry9Po8YY5o {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-ry9Po8YY5o .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-ry9Po8YY5o .section-text {
+  padding: 2rem 0;
+}
+.cid-ry9Po8YY5o .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-ry9Po8YY5o .inner-container {
+    width: 100% !important;
+  }
+}
